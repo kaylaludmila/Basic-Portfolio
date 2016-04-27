@@ -1,8 +1,160 @@
-* {
+/** {
   box-sizing: border-box;
+}*/
+
+html {
+	width: 960px;
+	position: relative;
 }
 
-/* Fill in your CSS Below */
+body {
+	width: 960px;
+	background-image: url("https://raw.githubusercontent.com/kaylaludmila/Basic-Portfolio/master/assets/images/pw_pattern_%402X.png");
+}
+
+header {
+
+	background: #4aaaa5;
+	margin-top: 10px;
+	margin-left: 112px;
+	color: #ffffff;
+	align:left;
+	font-size: 15px;
+	text-align: center;
+	width: 36%;
+	float:left;
+	border-bottom: solid #4aaaa5;
+	border-width: 15px;
+}
+
+/*section { 
+	background: #ffffff;
+	padding: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	color: #000000;
+	float:right;
+	width: 75%;
+
+}*/
+
+/*#container {
+	padding: 0px;
+	margin-top: 68px;
+	float:left;
+	width:33%;
+
+}*/
+
+.pagelinks {
+	padding: 0px;
+	margin-top: 68px;
+	float:right;
+	width:33%;
+}
+
+a { 
+	text-decoration: none;
+ }
+
+ a:hover {
+ 	color:999999;
+ }
+
+.main-bio {
+	padding: 0px;
+	float:left;
+	margin-left: 112px;
+
+}
+
+.myname {
+	background: #ffffff;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	color: #4aaaa5;
+	width:650px;
+}
+
+.mybio {
+	background: #ffffff;
+	padding: 20px;
+	margin-bottom: 0px;
+	margin-left: 112px;
+	color: #777777;
+	width:650px;
+}
+
+.profilepic {
+    width:40%;
+    height: auto;
+    align-self: left;
+    float:left;
+
+}
+
+#connect {
+	background: #ffffff;
+	padding: 0px;
+	margin-bottom: 50px;
+	margin-top:30px;
+	color: #000000;
+	float:left;
+
+}
+
+/*#division { 
+	background: #6ea3da;
+	padding: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	color: #00000;
+	width:100%;
+
+}
+
+aside {
+	background: #ffffff;
+	height:100px;
+	padding:20px;
+	margin-bottom: 0px;
+	margin-left: 40px;
+	color: #000000;
+	float:left;
+	width:25%;
+
+}
+*/
+#division {
+
+	background: #4aaaa5;
+	clear:both;
+	height: 25px;
+}
+
+footer {
+
+	background: #666666;
+	color: #ffffff;
+	height: 100px;
+	clear:both;
+	font-size: 10pt;
+	text-align: center;
+	padding: 40px;
+	border-top: thick solid #4aaaa5;
+	border-width: 15px;
+}
+
+
+
+
+
+
+
+
+/** {
+  box-sizing: border-box;
+}
 
 
 body {
@@ -92,68 +244,3 @@ aside {
 
 }
 
-footer {
-
-	background: #ccc;
-	padding: 20px;
-	margin-bottom: 20px;
-	color: #333;
-	clear:both;
-}
-
-
-
-
-
-
-
-
-
-/*body {
-	margin: 0;
-	padding: 0;
-	background: #666666;
-	font-size: 18px;
-	line-height: 150%;
-	font-family: "Georgia",Times New Roman,Times,serif;
-	color: #333333;
-	width: 960px;
-}
-header {
-	background: #ffffff;
-}
-h1 {
-	background: #333333;
-	padding: 20px 0;
-	color: #eee;
-	margin: 0;
-	font-size: 28px;
-	text-align: center;
-	margin-bottom: 20px;
-}
-h2 {
-	font-size: 24px;
-}
-a {
-	color: #d21034;
-}
-.container {
-	width: 1024px;
-	margin: 0 auto;
-}
-#main-bio,
-#contact-info,
-#bio-image {
-	float: left;
-}
-#main-bio {
-	width: 70%;
-}
-#contact-info {
-	width: 30%;
-}
-#bio-image {
-	width: 200px;
-	height: 200px;
-	margin-right: 20px;
-}*/
