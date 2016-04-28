@@ -208,6 +208,55 @@ input[type=submit] {
     cursor:pointer;
 }  
 
+.portfolio { 
+   position: relative; 
+   width: 100%;
+}
+
+.portfolioitem {
+	width: 45%;
+    height: 100px;
+    float:left;
+    padding-bottom: 66px;
+    position: relative;
+    display: block;
+   	background-size: cover;
+   	margin:12px;
+}
+
+
+.hangman {
+	background-image: url("https://raw.githubusercontent.com/kaylaludmila/Basic-Portfolio/master/assets/images/hangman.jpg");
+}
+
+.rpg {
+	background-image: url("https://raw.githubusercontent.com/kaylaludmila/Basic-Portfolio/master/assets/images/RPG%20Game.jpg");
+}
+
+.trivia {
+	background-image: url("https://raw.githubusercontent.com/kaylaludmila/Basic-Portfolio/master/assets/images/Trivia%20Game.jpg");
+}
+
+
+.rutgers {
+	background-image: url("https://raw.githubusercontent.com/kaylaludmila/Basic-Portfolio/master/assets/images/Rutger%20info%20Widget.jpg");
+}
+
+
+.rock {
+	background-image: url("https://raw.githubusercontent.com/kaylaludmila/Basic-Portfolio/master/assets/images/Rock%20Paper%20Sissors.jpg");
+}
+
+
+h3 { 
+	background-color: #4aaaa5;
+  	color: #ffffff; 
+  	padding-top: 15px;
+  	padding-bottom: 15px;
+  	margin-top: 100px;
+  	text-align: center;
+}
+
 footer {
 
 	background: #666666;
