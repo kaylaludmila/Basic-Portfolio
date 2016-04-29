@@ -58,7 +58,7 @@ a {
 	margin-top: 25px;
 	margin-left: 112px;
 	margin-bottom:25px;
-	width: 40%;
+	width: 45%;
 	border-style: solid;
     border-width: 1px;
     border-color:#cccccc; 
@@ -77,7 +77,7 @@ h1 {
 	align:left;
 	font-size: 20px;
 	text-align: center;
-	height: 45px;
+	height: 65px;
 	float:left;
 }
 
@@ -114,7 +114,7 @@ p {
 	font-style: bold;
 	padding: 20px;
 	margin-bottom: 0px;
-	margin-top:113px;
+	margin-top:95px;
 	margin-left: 20px;
 	color: #4aaaa5;
 	float:right;
@@ -143,7 +143,6 @@ p {
     height: auto;
     float:left;
     padding-right: 6px;
-    padding-left: 8px;
 }
 
 .linkedin {
@@ -215,7 +214,6 @@ input[type=submit] {
 
 .portfolioitem {
 	width: 45%;
-    height: 100px;
     float:left;
     padding-bottom: 66px;
     position: relative;
